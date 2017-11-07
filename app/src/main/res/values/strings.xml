@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MVP_Kotlin</string>
+
+    <!-- Login Messages -->
+    <string name="emptyFields">Please fill the details.</string>
+    <string name="invalidEmail">Please enter valid email address.</string>
+    <string name="invalidPasswordLength">Password length must be 6 to 20 characters.</string>
+    <string name="loginSuccess">You are logged in successfully.</string>
+    <string name="loginError">Please enter valid login details.</string>
+</resources>
